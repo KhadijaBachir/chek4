@@ -1,0 +1,114 @@
+body{
+    background-color: aliceblue;
+}
+
+
+.container-fluid{
+    background-color: limegreen;
+    display: inline;
+    color: white;
+  
+}
+#para{
+    background-color: black;
+    color: white;
+}
+span{
+    color: green;
+}
+.card-text{
+    text-align: left;
+}
+
+
+.secto1{
+    height: 350px;
+    width: 100%;
+    padding-top:px;
+    margin-top: 1px;
+    background-color: rgb(68, 205, 50);
+    display: inline-block;
+    
+}
+.d-flex{
+    background-color: rgb(68, 205, 50);
+    width: 900px;
+    padding-left: 300px;
+    padding-top: 100px;
+    color: white;
+    transform: translateX(10%);
+   
+}
+
+
+#titre{
+    margin-right: 50px;
+    color: white;
+
+   
+}
+.overflow{
+    width: 350px;
+    height: 550px;
+    overflow: scroll;
+    margin-left: 20px;
+    padding-left: 5px;
+    transform: translateY(-180%);
+    background-color: white;
+    box-shadow: 1px 1px 5px;
+    padding-top: 15px;
+    
+}
+.div1{
+    display: flex; 
+   margin-left: 410px;
+   padding-top: 10px;
+   
+}
+
+.div2,.div3,.div4,.div5{
+    display: flex;
+    justify-content: end;
+    margin-left: 10px;
+}
+.div5{
+    padding-right: 10px;
+    
+}
+.div6,.div7,.div8,.div9{
+    display: flex;
+    justify-content: end;
+    margin-left: 10px;
+}
+.div9{
+    padding-right: 10px;
+    
+}
+.div6{
+    padding-top: 10px;   
+}
+.div10,.div11,.div12,.div13{
+    display: flex;
+    justify-content: end;
+    margin-left: 10px;
+}
+.div13{
+    padding-right: 14px;
+    }
+    footer{
+        transform: translateY(-100%);
+        background-color:limegreen;
+        height:500px
+    }
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    .footer{
+        padding-left: 500px;
+    }
+    
+
+    
+
+
