@@ -87,6 +87,10 @@ span{
 .div6{
     padding-top: 10px;   
 }
+
+.div10{
+    margin-top: 10px;
+}
 .div10,.div11,.div12,.div13{
     display: flex;
     justify-content: end;
@@ -94,7 +98,10 @@ span{
 }
 .div13{
     padding-right: 14px;
+    
     }
+    
+
     footer{
         transform: translateY(-100%);
         background-color:limegreen;
